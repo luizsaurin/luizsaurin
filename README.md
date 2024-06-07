@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**luizsaurin/luizsaurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luiz and this is my Github profile. This is where I store my personal projects. Some projects are for study and future reference, and others are complete projects. Feel free to explore all the projects, and maybe you can find something useful for yourself.
 
-Here are some ideas to get you started:
+### Main skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</a>
+
+### Other skills
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,postgres,mongodb,kafka,git,rabbitmq,docker" />
+</a>
