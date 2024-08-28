@@ -11,5 +11,5 @@ I'm Luiz and this is my Github profile. This is where I store my personal projec
 ### Other skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,mysql,postgres,mongodb,kafka,git,rabbitmq,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,mysql,postgres,mongodb,kafka,git,rabbitmq,docker" />
 </a>
