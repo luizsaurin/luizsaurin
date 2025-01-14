@@ -5,5 +5,5 @@ I'm Luiz and this is my Github profile. This is where I store my personal projec
 ### Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,html,css,nodejs,mysql,postgres,mongodb,kafka,git,rabbitmq,docker"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,html,css,nodejs,mysql,postgres,mongodb,kafka,rabbitmq,git,docker"/>
 </a>
